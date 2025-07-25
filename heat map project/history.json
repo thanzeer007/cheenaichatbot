@@ -1,0 +1,195 @@
+{
+  "Shafeek ": [
+    {
+      "role": "assistant",
+      "content": "Hi Shafeek , welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "03:18 PM"
+    },
+    {
+      "role": "user",
+      "content": "show me accident details in anna nagar",
+      "time": "03:18 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2757 Mention a valid area.",
+      "time": "03:18 PM",
+      "type": "accident",
+      "zone": null
+    }
+  ],
+  "Shakil ": [
+    {
+      "role": "assistant",
+      "content": "Hi Shakil , welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "03:18 PM"
+    },
+    {
+      "role": "user",
+      "content": "accident details in villivakkam",
+      "time": "03:19 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2757 Mention a valid area.",
+      "time": "03:19 PM",
+      "type": "accident",
+      "zone": null
+    },
+    {
+      "role": "user",
+      "content": "crime in adyar",
+      "time": "03:19 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\ude94 Crimes in Adyar",
+      "time": "03:19 PM",
+      "type": "crime",
+      "zone": "Adyar"
+    }
+  ],
+  "Thanzeer": [
+    {
+      "role": "assistant",
+      "content": "Hi Thanzeer, welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "03:19 PM"
+    },
+    {
+      "role": "user",
+      "content": "flood in anna nagar",
+      "time": "03:19 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83c\udf0a Flood Data for Anna Nagar",
+      "time": "03:19 PM",
+      "type": "flood",
+      "zone": "Anna Nagar"
+    }
+  ],
+  "crime": [
+    {
+      "role": "assistant",
+      "content": "Hi crime, welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "03:22 PM"
+    },
+    {
+      "role": "user",
+      "content": "population",
+      "time": "03:22 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2757 Mention a valid zone.",
+      "time": "03:22 PM",
+      "type": "population",
+      "zone": null
+    }
+  ],
+  "tanzeer": [
+    {
+      "role": "assistant",
+      "content": "Hi tanzeer, welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "03:24 PM"
+    },
+    {
+      "role": "user",
+      "content": "population",
+      "time": "03:24 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2757 Mention a valid zone.",
+      "time": "03:24 PM",
+      "type": "population",
+      "zone": null
+    },
+    {
+      "role": "user",
+      "content": "population in teynampet",
+      "time": "03:24 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udc65 Population in Teynampet",
+      "time": "03:24 PM",
+      "type": "population",
+      "zone": "Teynampet"
+    }
+  ],
+  "Thanzeer ": [
+    {
+      "role": "assistant",
+      "content": "Hi Thanzeer , welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "04:25 PM"
+    },
+    {
+      "role": "user",
+      "content": "chennai",
+      "time": "04:25 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2753 Try asking about accidents, air pollution, crime, heat, flood, population, or risk.",
+      "time": "04:25 PM",
+      "type": null,
+      "zone": null
+    },
+    {
+      "role": "user",
+      "content": "accidents",
+      "time": "04:25 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2757 Mention a valid area.",
+      "time": "04:25 PM",
+      "type": "accident",
+      "zone": null
+    }
+  ],
+  "thanzeer": [
+    {
+      "role": "assistant",
+      "content": "Hi thanzeer, welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "12:12 PM"
+    },
+    {
+      "role": "user",
+      "content": "chennai in anna nagar",
+      "time": "12:12 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2753 Try asking about accidents, air pollution, crime, heat, flood, population, or risk.",
+      "time": "12:12 PM",
+      "type": null,
+      "zone": null
+    },
+    {
+      "role": "user",
+      "content": "accidents in anna nagar",
+      "time": "12:12 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2757 Mention a valid area.",
+      "time": "12:12 PM",
+      "type": "accident",
+      "zone": null
+    },
+    {
+      "role": "user",
+      "content": "accident in anna nagar",
+      "time": "12:14 PM"
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udea7 Accidents in Anna Nagar",
+      "time": "12:14 PM",
+      "type": "accident",
+      "zone": "Anna Nagar"
+    }
+  ]
+}
